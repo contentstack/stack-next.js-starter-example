@@ -18,6 +18,6 @@ To import this content to your stack, perform the following steps:
 
 4. Run the ‘seed’ command to import content to your stack: 
 
-	```csdx cm:seed -r "contentstack/stack-next.js-blog-example"```
+	```csdx cm:seed -r "contentstack/stack-next.js-starter-example"```
 
 Refer to the [Seed command documentation](https://www.contentstack.com/docs/developers/cli/import-content-using-the-seed-command/) to learn more. 
